@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'qianqi@umich.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/qianqi1212
