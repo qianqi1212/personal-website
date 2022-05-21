@@ -58,14 +58,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'qianqi@umich.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi ! This is Qianqi Yan (严乾琪), a rising senior undergraduate student majoring in Computer Science and Mathematics (minor). I expect to receive my bachelor’s degree from University of Michigan College of Engineering and Shanghai Jiao Tong University - University of Michigan Joint Institute.
+Hi ! This is Qianqi Yan (严乾琪), a rising senior undergraduate student majoring in Computer Science and Mathematics (minor). I expect to receive my bachelor’s degree from [University of Michigan College of Engineering](https://cse.engin.umich.edu/) and [Shanghai Jiao Tong University - University of Michigan Joint Institute](http://umji.sjtu.edu.cn/).
 
-Currently, I’m working at Situated Language and Emboddied Dialogue (SLED) lab advised by Professor Joyce Chai and Jianing "Jed" Yang.
+Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab](https://sled.eecs.umich.edu/) advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/).
+
+* **Selected Courses**:  Natural Language Processing (A), Deep Learning for Computer Vision (A+), Machine Learning (A), Computer Organization (A), Data Structure & Algorithm (A)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
