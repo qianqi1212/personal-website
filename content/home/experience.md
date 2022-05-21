@@ -65,7 +65,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-10-31'
     description: |2-
-      Design a service robot to be applied in hospital wards which is capable of navigating itself in unknown environment based on SLAM algorithm and providing customized message to patients according to their locations in the ward.
+      * Design a service robot to be applied in hospital wards which is capable of navigating itself in unknown environment based on SLAM algorithm and providing customized message to patients according to their locations in the ward.
     
 design:
   columns: '2'
