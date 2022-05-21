@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: "https://github.com/qianqi1212/Gender-Debiasing-in-BERT-Model/blob/f170a73f4eb9dcfa4f05804a0fbb1a111c7521c6/EECS487_Final_Report.pdf"
 summary: EECS 487 Natural Language Processing Final Project
 url_video: ""
