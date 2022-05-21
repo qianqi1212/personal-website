@@ -23,4 +23,6 @@ Contextual language models (CLM) such as BERT has been proven to be powerful in 
 
 In this project, we focus on detecting and reducing existing stereotypical conditions across gender while also ensuring the debiasing techniques do not go too far to affect underlying model performance by filtering a group of natural-gendered tokens and excluding them out during the debiasing process. We append an extra gender-debiasing layer after the word-embedding generation layer of BERT and implement two methods to reduce gender bias in word tokens:
 * Use Iterative Nullspace Projection (INLP)
+<img src="INLP_tSNE.png" alt="result" width="60%"/>
 * Build a generative adversarial network (GAN)
+<img src="GAN_tSNE.png" alt="result" width="60%"/>
