@@ -28,9 +28,6 @@ education:
     - course: B.S.E. in Computer Science
       institution: University of Michigan, Ann Arbor
       year: 2023(expected)
-    - course: B.S.E. in Mathematics (minor)
-      institution: University of Michigan, Ann Arbor
-      year: 2023(expected)
     - course: B.S.E. in Electrical and Computer Engineering
       institution: Shanghai Jiao Tong University
       year: 2023(expected)
