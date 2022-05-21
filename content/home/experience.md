@@ -51,6 +51,7 @@ experience:
     date_end: ''
     description: |2-
       Advised by [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Spencer Vagg](https://www.linkedin.com/in/spencervagg/)
+      
       Responsibilities include:
         
         * Suggesting and implementing methods to address people references and improve quality of summarization output
