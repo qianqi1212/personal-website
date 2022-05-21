@@ -55,7 +55,7 @@ experience:
       Responsibilities include:
         
         * Suggesting and implementing methods to address people references and improve quality of summarization output
-        * Deploying pipeline to transcribe existing recorded sales conversations and summarize them
+        * Deploying pipeline to transcribe recorded sales conversations and summarize them
         
   - title: Research Assistant
     company: Shanghai Jiao Tong University
