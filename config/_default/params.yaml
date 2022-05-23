@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Welcome to Qianqi's personal website.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: 'google98b9e9389cb623a6.html'
+    google: ''
     baidu: ''
 
 # Site header
