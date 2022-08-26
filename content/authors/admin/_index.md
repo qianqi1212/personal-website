@@ -6,7 +6,7 @@ title: Qianqi Yan
 superuser: true
 
 # Role/position/tagline
-role: CS Rising Senior @ University of Michigan
+role: CS Senior @ University of Michigan
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -61,7 +61,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi ! This is Qianqi Yan (严乾琪), a rising senior undergraduate student majoring in Computer Science and Mathematics (minor). I expect to receive my bachelor’s degree from [University of Michigan College of Engineering](https://cse.engin.umich.edu/) and [Shanghai Jiao Tong University - University of Michigan Joint Institute](http://umji.sjtu.edu.cn/).
+Hi ! This is Qianqi Yan (严乾琪), a senior undergraduate student majoring in Computer Science and minoring in Mathematics. I expect to receive my bachelor’s degrees from [University of Michigan College of Engineering](https://cse.engin.umich.edu/) and [Shanghai Jiao Tong University - University of Michigan Joint Institute](http://umji.sjtu.edu.cn/).
 
 Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab](https://sled.eecs.umich.edu/) advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/).
 
