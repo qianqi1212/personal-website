@@ -63,7 +63,7 @@ highlight_name: true
 
 Hi ! This is Qianqi Yan (严乾琪), a senior undergraduate student majoring in Computer Science and minoring in Mathematics. I expect to receive my bachelor’s degrees from [University of Michigan College of Engineering](https://cse.engin.umich.edu/) and [Shanghai Jiao Tong University - University of Michigan Joint Institute](http://umji.sjtu.edu.cn/).
 
-Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab](https://sled.eecs.umich.edu/) advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/). I'm also advised by Professor [Stella Yu] (https://www1.icsi.berkeley.edu/~stellayu/) and [Tsung-Wei Ke] (https://twke18.github.io/)
+Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab](https://sled.eecs.umich.edu/) advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/). I'm also advised by Professor [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/) and [Tsung-Wei Ke](https://twke18.github.io/)
 
 * **Selected Courses**:  Natural Language Processing (A), Deep Learning for Computer Vision (A+), Machine Learning (A), Computer Organization (A), Data Structure & Algorithm (A)
 
