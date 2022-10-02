@@ -24,4 +24,5 @@ Functionality includes:
 * Interactable NPCs
 * Game area
 
+Watch a video demo through the game:
 {{< youtube lw_vNGoDA9k >}}
