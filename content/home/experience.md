@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    location: University of Michigan
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+      Advised by [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/)
+      
+      Responsibilities include:
+        
+        * Create a vision model which conducts image-level recognition and segmentation concurrently.
+        * Construct the hierarchy of image segmentation and language entity separately, and then match them at each level of granularity to derive hierarchical semantic segmentation.
+      
   - title: Summer Undergraduate Research in Engineering
     company: Situated Language and Embodied Dialogue (SLED) Lab
     company_url: 'https://sled.eecs.umich.edu/'
@@ -32,6 +44,10 @@ experience:
     description: |2-
       Advised by [Joyce Chai](https://web.eecs.umich.edu/~chaijy/)
       
+      Responsibilities include:
+      
+        * Leverage language models to resolve uncertainty in vision (disambiguating).
+      
   - title: Research Assistant
     company: Situated Language and Embodied Dialogue (SLED) Lab
     company_url: 'https://sled.eecs.umich.edu/'
@@ -41,6 +57,11 @@ experience:
     date_end: ''
     description: |2-
       Advised by [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/)
+      
+      Responsibilities include:
+      
+        * Design the prompting pipeline to query GPT-3 to generate actionable plans based on the goal state and environment feedback. 
+        * Collect 65k egocentric view - text description of goal state pairs from the FILM dataset and fine-tune CLIP model to match goal states with stored frames during inference.
   
   - title: ML Software Engineer Internship
     company: Initium AI
