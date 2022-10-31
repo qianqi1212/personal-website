@@ -1,7 +1,7 @@
 ---
 summary: EECS 498 XR Game Development projects
 url_video: "https://youtu.be/lw_vNGoDA9k"
-url_video: "https://youtu.be/oFe_BXj9t-I
+url_video: "https://youtu.be/oFe_BXj9t-I"
 date: 2021-11-26T01:00:00.000Z
 external_link: ""
 url_slides: ""
