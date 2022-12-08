@@ -67,4 +67,4 @@ Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab
 
 * **Selected Courses**:  Natural Language Processing (A), Deep Learning for Computer Vision (A+), Machine Learning (A), Computer Organization (A), Data Structure & Algorithm (A)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
