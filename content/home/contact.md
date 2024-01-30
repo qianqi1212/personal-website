@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: qianqi@umich.edu
+  email: qyan79@ucsc.edu
   
 design:
   columns: '2'
