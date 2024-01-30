@@ -64,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi ! This is Qianqi Yan (严乾琪), a 1st year Ph.D. student @ University of California, Santa Cruz. I work with Professor [Xin Eric Wang](https://eric-xw.github.io/) as a member of the (Embodied and Responsible Interaction and Communication (ERIC))[http://eric-lab.soe.ucsc.edu/home] Lab). My current research focuses on visual-language model understanding, AI for healthcare and embodied AI.
+Hi ! This is Qianqi Yan (严乾琪), a 1st year Ph.D. student @ University of California, Santa Cruz. I work with Professor [Xin Eric Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. My current research focuses on visual-language model understanding, AI for healthcare and embodied AI.
 
 I obtained my dual-bachelor degrees from the University of Michigan and Shanghai Jiao Tong University in 2023. I worked with Professors [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
 
