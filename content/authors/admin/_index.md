@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Qianqi "Jackie" Yan
+title: Qianqi Yan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 1st year Ph.D. student @ University of California, Santa Cruz
+role: CS Senior @ University of Michigan
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Santa Cruz
-    url: https://www.ucsc.edu/
+  - name: University of Michigan
+    url: https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include vision-language model understanding, AI for healthcare and Embodied AI.
+bio: My research interests include natural language processing, computer vision and deep learning.
 
 # Interests to show in About widget
 interests:
-  - vision-language models
-  - AI for healthcare
-  - Embodied AI
+  - Natural Language Processing
+  - Deep Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: University of California, Santa Cruz
-      year: 2028 (expected)
     - course: B.S.E. in Computer Science
       institution: University of Michigan, Ann Arbor
-      year: 2023
+      year: 2023(expected)
     - course: B.S.E. in Electrical and Computer Engineering
       institution: Shanghai Jiao Tong University
-      year: 2023
+      year: 2023(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,8 +61,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi ! This is Qianqi Yan (严乾琪), a 1st year Ph.D. student @ University of California, Santa Cruz. I work with Professor [Xin Eric Wang](https://eric-xw.github.io/) as a member of the [Embodied and Responsible Interaction and Communication (ERIC)](http://eric-lab.soe.ucsc.edu/home) Lab. My current research focuses on visual-language model understanding, AI for healthcare and embodied AI.
+Hi ! This is Qianqi Yan (严乾琪), a senior undergraduate student majoring in Computer Science and minoring in Mathematics. I expect to receive my bachelor’s degrees from [University of Michigan College of Engineering](https://cse.engin.umich.edu/) and [Shanghai Jiao Tong University - University of Michigan Joint Institute](http://umji.sjtu.edu.cn/).
 
-I obtained my dual-bachelor degrees from the University of Michigan and Shanghai Jiao Tong University in 2023. I worked with Professors [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/).
+Currently, I’m working at [Situated Language and Emboddied Dialogue (SLED) lab](https://sled.eecs.umich.edu/) advised by Professor [Joyce Chai](https://web.eecs.umich.edu/~chaijy/) and [Jianing "Jed" Yang](https://jedyang.com/). I'm also advised by Professor [Stella Yu](https://www1.icsi.berkeley.edu/~stellayu/) and [Tsung-Wei Ke](https://twke18.github.io/).
+
+* **Selected Courses**:  Natural Language Processing (A), Deep Learning for Computer Vision (A+), Machine Learning (A), Computer Organization (A), Data Structure & Algorithm (A)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
