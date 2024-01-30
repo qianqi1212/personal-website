@@ -68,8 +68,8 @@ experience:
     company_url: 'https://www.initium.ai/'
     company_logo: 
     location: 
-    date_start: '2022-04'
-    date_end: '2022-08'
+    date_start: '2022-04-01'
+    date_end: '2022-08-01'
     description: |2-
       Responsibilities include:
         
