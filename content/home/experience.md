@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-- experience:
+experience:
    - title: Machine Learning Software Engineer Intern
     company: Initium AI
     company_url: 'https://www.initium.ai/'
@@ -29,7 +29,7 @@ date_format: Jan 2006
     location: 
     date_start: 'Apr. 2022'
     date_end: 'Aug. 2022'
-    description: |2-
+    description:
         * Incorporate TextRank algorithm and fine-tune BART model on abstract summarization task. Improve ROUGE scores on DialogSum dataset from 0.44 by 7\%.
         * Deploy pipeline on TorchServe front-end to transcribe sales meeting from audio to summarized text.
     
