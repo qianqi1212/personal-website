@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
- - title: Machine Learning Software Engineer Intern
+   - title: Machine Learning Software Engineer Intern
     company: Initium AI
     company_url: 'https://www.initium.ai/'
     company_logo: 
     location: 
-    date_start: '2022-05-09'
-    date_end: ''
+    date_start: 'Apr. 2022'
+    date_end: 'Aug. 2022'
     description: |2-
-      Advised by [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) and [Spencer Vagg](https://www.linkedin.com/in/spencervagg/)
-      
-      Responsibilities include:
-        
         * Incorporate TextRank algorithm and fine-tune BART model on abstract summarization task. Improve ROUGE scores on DialogSum dataset from 0.44 by 7\%.
         * Deploy pipeline on TorchServe front-end to transcribe sales meeting from audio to summarized text.
     
